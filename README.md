@@ -1,3 +1,5 @@
+## In-works repository
+
 Comptia Security+ Study and Demo Labs
 
 ---
@@ -54,12 +56,6 @@ If you find this helpful, feel free to fork it, contribute, or share it with you
 
 ---
 
-## 📜 License
-
-- Scripts: MIT License  
-- Notes & Docs: Creative Commons BY-SA 4.0  
-
----
 
 ## 🤝 Contributions Welcome
 
@@ -67,4 +63,3 @@ Got a helpful note, lab, or resource? Feel free to submit a pull request or open
 
 ---
 
-> “The best way to learn cybersecurity is by doing. Stay curious and keep practicing!”
