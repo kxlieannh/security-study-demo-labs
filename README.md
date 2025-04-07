@@ -1,1 +1,1 @@
-# Comptia-Sec-Demo-Study-Labs-VM
+Comptia Security+ Study and Demo Labs
